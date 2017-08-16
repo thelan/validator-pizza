@@ -1,0 +1,7 @@
+# Intellij
+/.idea
+*.iml
+/composer.lock
+/composer.phar
+/vendor
+/test.php

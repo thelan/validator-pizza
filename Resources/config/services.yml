@@ -1,0 +1,3 @@
+services:
+    thelan.validator_pizza:
+        class: thelan\ValidatorPizzaBundle\Services\ValidatorPizzaService
