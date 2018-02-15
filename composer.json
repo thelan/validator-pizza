@@ -4,7 +4,7 @@
   "description": "Integrates validator.pizza with Symfony.",
   "homepage": "https://www.validator.pizza/",
   "keywords": ["symfony"],
-  "license": "AGPL",
+  "license": "AGPL-3.0-or-later",
   "authors": [{
     "name" : "Julien Recurt",
     "email": "jrecurt@servme.fr",
